@@ -19,14 +19,14 @@
   },
   "author": "Konstantin Münster <ewq15651@gmail.com>",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
+  "starter-name": "gwanghyeokchoi.github.io",
+  "homepage": "https://gwanghyeokchoi.github.io/#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
+    "url": "https://github.com/GwanghyeokChoi/GwanghyeokChoi.github.io"
   },
   "bugs": {
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
+    "url": "https://github.com/GwanghyeokChoi/GwanghyeokChoi.github.io/issues"
   },
   "keywords": [
     "react",
